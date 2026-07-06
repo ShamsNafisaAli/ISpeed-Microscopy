@@ -58,6 +58,6 @@ This repository includes:
 
 ## Need Help or Want to Share Your Discoveries?
 
-If you encounter any issues while building your microscope or if you want to share the amazing images you've captured, don't hesitate to reach out. You can email me at `sali79[at]jhu.edu`.
+If you encounter any issues while building your microscope or if you want to share the amazing images you've captured, don't hesitate to reach out. You can email me at `sali79[at]jhu.edu`. <br>
 
-## Happy Exploring, Microscopists!
+Happy Exploring, Microscopists!
