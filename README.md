@@ -7,7 +7,7 @@ Welcome to the **ISpeed-Microscopy** repository! Here, you will find everything 
 This project is designed for students in the **Immersive Summer Program for Education, Enrichment, and Distinction (ISPEED) in Biomedical Engineering**. It is especially suited for high-school learners who are curious about engineering, optics, imaging, and biomedical science.
 Below is a picture of the completed microscope:
 
-![Completed Microscope](Images/completed_microscope.jpg)
+![Completed Microscope](./Images/completed_microscope.jpg)
 
 This project is designed to be accessible, especially for young enthusiasts and educational purposes. With a Raspberry Pi, a camera module, a simple lens setup, and some careful focusing, you can begin observing tiny structures that are usually invisible to the naked eye.
 
