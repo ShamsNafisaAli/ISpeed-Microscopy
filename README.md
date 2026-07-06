@@ -56,8 +56,14 @@ This repository includes:
 
 <br>
 
+
+
 ## Need Help or Want to Share Your Discoveries?
 
 If you encounter any issues while building your microscope or if you want to share the amazing images you've captured, don't hesitate to reach out. You can email me at `sali79[at]jhu.edu`. <br>
 
-Happy Exploring, Microscopists!
+Happy Exploring, Microscopists! <br><br>
+
+## Acknowledgment
+
+This repository builds on the [original ISpeed-Microscopy repository](https://github.com/MantejSingh21/ISpeed-Microscopy) by Mantej Singh.
