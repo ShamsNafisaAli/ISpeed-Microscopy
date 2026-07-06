@@ -4,7 +4,7 @@
 
 Welcome to the **ISpeed-Microscopy** repository! Here, you will find everything you need to build your own **ISpeed Microscope**, a small, portable, and affordable device that allows you to explore the microscopic world around you.
 
-This project is designed for students in the **Immersive Summer Program for Education, Enrichment, and Distinction (ISPEED) in Biomedical Engineering**. It is especially suited for high-school learners who are curious about engineering, optics, imaging, and biomedical science.
+This project is designed for students in the **Immersive Summer Program for Education, Enrichment, and Distinction (ISPEED) in Biomedical Engineering at Johns Hopkins University**. It is especially suited for high-school learners who are curious about engineering, optics, imaging, and biomedical science.
 Below is a picture of the completed microscope:
 
 ![Completed Microscope](Images/CompletedMscope.jpg)
