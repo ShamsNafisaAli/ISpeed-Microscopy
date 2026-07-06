@@ -13,13 +13,13 @@ This project is designed to be accessible, especially for young enthusiasts and 
 
 Check out some example images captured using the ISpeed Microscope:
 
-![Microscope Image 2](Images/ispeed-1.jpg)
+![Microscope Image 2](Images/ispd-1.jpg)
 
-![Microscope Image 3](Images/ispeed-2.jpg)
+![Microscope Image 3](Images/ispd-2.jpg)
 
-![Microscope Image 4](Images/ispeed-3.jpg)
+![Microscope Image 4](Images/ispd-3.jpg)
 
-![Microscope Image 5](Images/ispeed-4.jpg)
+![Microscope Image 5](Images/ispd-4.jpg)
 
 <br>
 
